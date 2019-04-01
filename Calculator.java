@@ -115,6 +115,8 @@ import javax.swing.*;
 			
 		    }
             }
+
+    //It is not necessary to create so many classes. But your calculator works, so it's okay.
     class ListenToClear implements ActionListener {
         
     	public void actionPerformed(ActionEvent e) {
